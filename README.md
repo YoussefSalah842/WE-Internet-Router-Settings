@@ -22,5 +22,3 @@
 This application is designed to make accessing and managing your router settings effortless, removing the need for technical know-how or manual IP address entry. Whether you're a tech-savvy user or someone new to networking, **WE Internet Router Settings** offers a simple and efficient solution.
 
 ---
-
-Feel free to add or modify sections like installation instructions or contribution guidelines if needed. 😊
