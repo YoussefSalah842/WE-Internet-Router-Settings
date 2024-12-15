@@ -1,6 +1,10 @@
 # WE Internet Router Settings
 
+![we_brand](https://github.com/user-attachments/assets/ec7c1a24-27be-45dd-82a6-22782023d155)
+
 **WE Internet Router Settings** is a lightweight desktop application built with **C#** using Windows Forms. The application simplifies accessing your router's settings page by automatically detecting its address and displaying it within the app.
+
+![2024-12-15_081044](https://github.com/user-attachments/assets/be934756-b27e-4e9a-b4e8-00c4ebda35a6)
 
 ## Features
 
