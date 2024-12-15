@@ -1,0 +1,11 @@
+c:\users\salsh\documents\visual studio 2015\Projects\WE Internet Router Settings\WE Internet Router Settings\bin\Debug\WE Internet Router Settings.exe.config
+c:\users\salsh\documents\visual studio 2015\Projects\WE Internet Router Settings\WE Internet Router Settings\bin\Debug\WE Internet Router Settings.exe
+c:\users\salsh\documents\visual studio 2015\Projects\WE Internet Router Settings\WE Internet Router Settings\bin\Debug\WE Internet Router Settings.pdb
+c:\users\salsh\documents\visual studio 2015\Projects\WE Internet Router Settings\WE Internet Router Settings\obj\Debug\WE Internet Router Settings.csprojResolveAssemblyReference.cache
+c:\users\salsh\documents\visual studio 2015\Projects\WE Internet Router Settings\WE Internet Router Settings\obj\Debug\WE_Internet_Router_Settings.Properties.Resources.resources
+c:\users\salsh\documents\visual studio 2015\Projects\WE Internet Router Settings\WE Internet Router Settings\obj\Debug\WE Internet Router Settings.csproj.GenerateResource.Cache
+c:\users\salsh\documents\visual studio 2015\Projects\WE Internet Router Settings\WE Internet Router Settings\obj\Debug\WE Internet Router Settings.exe
+c:\users\salsh\documents\visual studio 2015\Projects\WE Internet Router Settings\WE Internet Router Settings\obj\Debug\WE Internet Router Settings.pdb
+c:\users\salsh\documents\visual studio 2015\Projects\WE Internet Router Settings\WE Internet Router Settings\obj\Debug\WE_Internet_Router_Settings.MainForm.resources
+c:\users\salsh\documents\visual studio 2015\Projects\WE Internet Router Settings\WE Internet Router Settings\obj\Debug\WE_Internet_Router_Settings.About.resources
+c:\users\salsh\documents\visual studio 2015\Projects\WE Internet Router Settings\WE Internet Router Settings\obj\Debug\WE_Internet_Router_Settings.Help.resources
